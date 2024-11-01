@@ -1,13 +1,20 @@
 # Stone Company Modpack
 
-- Modpack Version: v2
+- Modpack Version: v2.0
+- Modpack Download: [Link](https://drive.google.com/file/d/130pu5oa9WGwaNv8ZIO3N37R-M2n9rhrq/view?usp=sharing)
 
 # Instruction:
-- Run MSI installer or extract zip to "C:\Users\USER\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles".
+- Download modpack from link above and extract zip to "C:\Users\USER\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles".
 - This will create a profile called Stone Company to use to play the modpack.
 
 # Features
-- TO BE DETERMINED.
+- New Maps & Interiors.
+- New Monsters.
+- New Items & Scrap.
+- Ship Upgrades.
+- Random Events.
+- Quality of Life Improvements.
+- Bug & Performance Fixes.
 
 # Issues and Support
 
